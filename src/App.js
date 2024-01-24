@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Async Redux Project
+      No clue What i'm doing the vid is nothing like the import
     </div>
   );
 }
